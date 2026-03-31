@@ -1,7 +1,6 @@
 # Arsen Petrosyan
 
 Frontend Engineer focused on `React`, `Next.js`, `Vue`, and `TypeScript`.
-
 Currently building a complex frontend architecture from scratch with `React` and `TypeScript` in fintech at [`UniPay`](https://unipay.bg/).
 
 ## What I Do
