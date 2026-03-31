@@ -11,13 +11,6 @@ Currently building a complex frontend architecture from scratch with `React` and
 - Improve performance, bundle size, and PageSpeed
 - Turn Figma into clean, production-ready UI
 
-## Highlights
-
-- Scaled a high-load `React` and `Next.js` service to handle `3x traffic` while keeping response time under `1s`
-- Migrated legacy `jQuery` modules and improved interface speed by `95%`
-- Reduced script weight from `500 KB` to `150 KB`
-- Improved PageSpeed from `40` to `97`
-
 ## Side Projects
 
 - [`Fileporter`](https://github.com/akira-dude/Fileporter) - a small `Python` FTP client built for transferring music to a phone with filename normalization
