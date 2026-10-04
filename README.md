@@ -13,6 +13,7 @@ Currently building a complex frontend architecture from scratch with `React` and
 
 ## Side Projects
 
+- [`TextFixer`](https://github.com/akira-dude/text-fixer) - a `Python` Windows tray app that fixes text in any app by hotkey: wrong keyboard layout locally, spelling and tone via a fast LLM, with self-updates from GitHub Releases
 - [`Fileporter`](https://github.com/akira-dude/Fileporter) - a small `Python` FTP client built for transferring music to a phone with filename normalization
 - [`Alfred`](https://github.com/akira-dude/alfred) - a web service with AI integration for contacts and calendar automation, including generated events and voice input
 
